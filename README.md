@@ -4,11 +4,13 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/stats-organization/github-readme-stats?tab=readme-ov-file#deploy-on-your-own-recommended">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="profile/stats-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="profile/stats.svg">
     <img alt="github stats" src="profile/stats.svg">
   </picture>
+  </a>
 </p>
 
 <p align="center">
