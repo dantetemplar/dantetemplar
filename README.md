@@ -4,7 +4,11 @@
 </p>
 
 <p align="center">
-  <img alt="github stats" src="profile/stats.svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile/stats-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="profile/stats.svg">
+    <img alt="github stats" src="profile/stats.svg">
+  </picture>
 </p>
 
 <p align="center">
