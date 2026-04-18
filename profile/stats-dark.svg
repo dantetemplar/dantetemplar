@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Ruslan Bel'kov's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 193, Total Commits  (last year) : 695, Total PRs: 93, Total Issues: 393, Contributed to (last year): 75</desc>
+        <desc id="descId">Total Stars Earned: 193, Total Commits  (last year) : 695, Total PRs: 93, Total Issues: 393, Contributed to (last year): 73</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -222,7 +222,7 @@
         x="219.01"
         y="12.5"
         data-testid="contribs"
-      >75</text>
+      >73</text>
     </g>
   </g>
     </svg>
