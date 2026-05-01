@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Ruslan Bel'kov's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 194, Total Commits  (last year) : 689, Total PRs: 93, Total Issues: 399, Contributed to (last year): 73</desc>
+        <desc id="descId">Total Stars Earned: 194, Total Commits  (last year) : 689, Total PRs: 93, Total Issues: 400, Contributed to (last year): 73</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 45.78833965958397;
+        stroke-dashoffset: 45.788330674986085;
       }
     }
   
@@ -207,7 +207,7 @@
         x="219.01"
         y="12.5"
         data-testid="issues"
-      >399</text>
+      >400</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
